@@ -144,7 +144,6 @@ Use the **Filters Pane** for:
 ---
 
 ## 5. Dashboard Screenshots
-Add images such as:  
 - `average.png`  
 - `bycustomer.png`  
 - `currentvs.png`  
