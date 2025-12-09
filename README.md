@@ -141,17 +141,23 @@ Use the **Filters Pane** for:
 - Page-level filters  
 - Visual-level filters  
 
----
 
-## 5. Dashboard Screenshots
-- `average.png`  
-- `bycustomer.png`  
-- `currentvs.png`  
-- `date.png`  
-- `grafico.png`  
-- `salesbycountry.png`  
-- `totalsales.png`  
+
 ---
+## 5. Dashboard Screenshots
+
+### Average Ticket
+![Average Ticket](screenshots/average.png)
+
+### Sales by Customer
+![Sales by Customer](screenshots/bycustomer.png)
+
+### Current vs Previous Year
+![Current vs Previous Year](screenshots/currentvs.png)
+
+### Sales by Country
+![Sales by Country](screenshots/salesbycountry.png)
+
 
 ## 6. Insights 
 
